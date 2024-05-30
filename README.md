@@ -1,0 +1,2 @@
+# RTS_Demo_UnityGame
+ This is a computer game built upon Unity. I watched the tutorial from https://www.youtube.com/@Mikes-Code. And, I fixed some bugs in the tutorial video, e.g., removing the GameObject from the list and disabling the Transform after it was destroyed. I also added functions to allow the 'Enemy' to attach the user unit, but they do not attack each other, adding units into the selected list using the Box-selection by holding the left Shift and selecting the 'Enemy' by holding the C Key.
